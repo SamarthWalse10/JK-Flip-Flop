@@ -1,4 +1,4 @@
-# JK-Flip-Flop
+# JK-Flip-Flop-Verilog
 Digital Logic Design: JK Flip Flop with Verilog in Xilinx Vivado.    
 
 This repository contains the implementation of a JK flip flop using Verilog and Xilinx Vivado. The JK flip flop is a fundamental building block in digital logic circuits and is widely used in sequential logic design.
